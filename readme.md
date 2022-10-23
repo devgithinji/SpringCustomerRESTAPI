@@ -256,7 +256,7 @@ hibernate.packagesToScan=com.densoft.springcusomerscrm.model
     2. Create *css* and *js* folders under the *resource* directory.
     3. Download and keep **bootstrap.min.css** file under *css* folder
     4. download and keep **bootstrap.min.js** and **jquery-1.11.1.min.js** files under the resource directory. Note that bootstrap min js is depended on jquery min js.
-14. Build and Run an application
+14. Build and Run the application
 
     As we are using maven build tool so first, we will need to build this application using following maven command:
 
