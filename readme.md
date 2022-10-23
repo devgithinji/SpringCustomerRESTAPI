@@ -72,7 +72,7 @@ Basically, in order to support Hibernate integration, Spring provides two key be
            </dependency>
    ```
 3. Project Structure
-4. AppInitializer - Register a DispatcherServlet using Java-based Spring configuration
+5. AppInitializer - Register a DispatcherServlet using Java-based Spring configuration
 
    ```
    package com.densoft.springcusomerscrm.config;
@@ -97,8 +97,7 @@ Basically, in order to support Hibernate integration, Spring provides two key be
    }
 
    ```
-5. PersistenceJPAConfig - Spring and Hibernate Integration using Java-based Spring configuration
-6.
+6. PersistenceJPAConfig - Spring and Hibernate Integration using Java-based Spring configuration
 
 ```
 package com.densoft.springcusomerscrm.config;
