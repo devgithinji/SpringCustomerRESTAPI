@@ -247,9 +247,17 @@ hibernate.packagesToScan=com.densoft.springcusomerscrm.model
 
    ```
 9. JPA Entity - Customer.java
+
+   (Customer entity class)
 10. Spring MVC Controller Class - CustomerController.java
+
+    (customer controller)
 11. Service Layer - CustomerService.java and CustomerServiceImpl.java
+
+    (Customer service interface and its implementations)
 12. DAO Layer - CustomerDAO.java and CustomerDAOImpl.java 11 JSP Views - customer-form.jsp and list-customers.jsp
+
+    (Customer DAO and its implementations)
 13. Serve Static Resources - CSS and JS
 
     1. Create a *resource* folder under webapp directory.
